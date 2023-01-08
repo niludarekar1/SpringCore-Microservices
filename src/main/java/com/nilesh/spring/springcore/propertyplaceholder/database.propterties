@@ -1,0 +1,4 @@
+dbServer=nileshserver
+dbPort=8080
+dbUser=nilesh
+dbPass=test
